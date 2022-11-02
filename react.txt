@@ -1,0 +1,18 @@
+
+React 셋팅
+    npx create-react-app "폴더명"
+
+    <React.StrictMode>
+        <App/>
+    </React.StrictMode>
+
+리액트 프로젝트 설치 명령어
+    npx create-react-app . or ("폴더명")
+
+
+props
+
+npm install react-router-dom 
+
+npm i redux  => 리덕스: 예측 가능한 상태의 저장소
+npm i react-redux
